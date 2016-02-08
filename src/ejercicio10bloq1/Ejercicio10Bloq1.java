@@ -21,8 +21,8 @@ public class Ejercicio10Bloq1 {
         }
         System.out.println("El factorial es : "+factorial);
     }
-    public void comit(){
-        System.out.print("Segunda version");
+    public void metodo(){
+    System.out.print("main");
     }
     
 }
